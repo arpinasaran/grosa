@@ -1,5 +1,6 @@
 # Tugas PBP Gasal 2024/2025
 ### M. Arvin Wijayanto - 2306259780 - Kelas D
+### Nama Proyek: GROSA
 
 ## Tautan Deployment
 Deployment tugas Individu PBP Gasal ini dapat dilihat pada ...
