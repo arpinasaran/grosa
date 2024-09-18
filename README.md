@@ -28,14 +28,14 @@ Jika kita tidak menambahkan csrf_token pada form Django, penyerang dapat membuat
 
 ## Langkah implementasi 
 ### Pembuatan form
-1. Membuat form di Django 
-2. Membuat view untuk input form
-3. Membuat template HTML untuk menampilkan form
-4. Melakukan URL routing untuk form 
+1. Membuat form di Django: Menggunakan modelform untuk membuat product form
+2. Membuat view untuk input form: berguna untuk menampilkan dan memproses form input
+3. Membuat template HTML untuk menampilkan form: HTML ini nanti berfungsi untuk menampilkan form
+4. Melakukan URL routing untuk form: Penambahan URL supaya form dapat diakses
 ### Fungsi views
-1. Membuat fungsi untuk melihat json dan xml
-2. Membuat fungsi untuk melihat json dan xml berdasarkan ID
-3. Menambahkan routing url untuk views tersebut
+1. Membuat fungsi untuk melihat json dan xml: berguna untuk melihat input yang telah masuk
+2. Membuat fungsi untuk melihat json dan xml berdasarkan ID: berguna untuk melihat input yang telah masuk berdasarkan ID input product
+3. Menambahkan routing url untuk views tersebut: penambahan routing url agar json dan xml bisa diakses melalui urls
 
 ## Screenshot Postman
 ### JSON
